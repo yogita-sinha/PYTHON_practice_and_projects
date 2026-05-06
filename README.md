@@ -7,10 +7,10 @@ This repository documents my journey through Python. I have mastered the essenti
 - **Control Flow:** `if-else` logic, `while` loops, and `for` loops.
 - **Data Structures:** Working with Lists, Tuples, Sets, and Dictionaries.
 - **Functions:** Defining reusable code, parameters, and return values.
+- **File Handling:** Learning how to read and write `.txt` and `.csv` files.
 
 ## 🚧 Currently Learning / Next Steps
 - **Object-Oriented Programming (OOP):** Understanding Classes and Objects (matching my Java studies).
-- **File Handling:** Learning how to read and write `.txt` and `.csv` files.
 - **Advanced Logic:** List comprehensions and Error handling (`try-except`).
 
 ## 🧩 Problem Solving
